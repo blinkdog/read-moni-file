@@ -1,0 +1,35 @@
+{
+    "name": "read-moni-file",
+    "version": "0.0.1",
+    "private": true,
+    "description": "CoffeeScript implementation of read_moni_file",
+    "keywords": [
+	"DAQ",
+	"IceCube",
+	"moni",
+	"monitoring",
+	"pDAQ",
+        "SPADE",
+	"WIPAC"
+    ],
+    "homepage": "https://github.com/blinkdog/read-moni-file",
+    "bugs": "https://github.com/blinkdog/read-moni-file/issues",
+    "author": "Patrick Meade <patrick.meade@icecube.wisc.edu>",
+    "files": [
+        "lib",
+        "package.json"
+    ],
+    "main": "read-moni-file",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/blinkdog/read-moni-file"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+        "coffee-script": "1.7.1",
+        "mocha": "1.20.1",
+        "should": "4.0.4"
+    }
+}
+
