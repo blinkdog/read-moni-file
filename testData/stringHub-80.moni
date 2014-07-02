@@ -1,0 +1,455 @@
+PyrateBufferManager: 2014-04-12 11:26:00.842693
+	CurrentAquiredBuffers: 2
+	CurrentAquiredBytes: 76
+	ReturnBufferCount: 119251
+
+jvm: 2014-04-12 11:26:00.842693
+	MemoryStatistics: [534872680, 2058027008]
+
+moniData: 2014-04-12 11:26:00.842693
+	Depth: [0]
+	RecordsSent: [11065]
+
+rdoutData: 2014-04-12 11:26:00.842693
+	Depth: [0]
+	RecordsSent: [35093]
+
+rdoutReq: 2014-04-12 11:26:00.842693
+	BytesReceived: [5678890]
+	RecordsReceived: [91595]
+	TotalRecordsReceived: 91595
+
+sender: 2014-04-12 11:26:00.842693
+	NumHitsCached: 0
+	NumHitsQueued: 326409
+	NumHitsReceived: 1566015
+	NumReadoutRequestsQueued: 0
+	NumReadoutRequestsReceived: 92521
+	NumReadoutsSent: 35479
+
+snData: 2014-04-12 11:26:00.842693
+	Depth: [0]
+	RecordsSent: [2150]
+
+stringHit: 2014-04-12 11:26:00.842693
+	Depth: [0]
+	RecordsSent: [30336]
+
+stringhub: 2014-04-12 11:26:00.842693
+	EarliestLastChannelHitTime: 0
+	HitRate: 38233.3
+	HitRateLC: 734.0
+	LatestFirstChannelHitTime: 87675559039449827
+	NumberOfActiveAndTotalChannels: [60, 60]
+	NumberOfActiveChannels: 60
+	NumberOfNonZombies: 60
+	TimeOfLastHitInputToHKN1: 87675983796120085
+	TimeOfLastHitOutputFromHKN1: 87675983794106896
+	TotalLBMOverflows: 4
+
+system: 2014-04-12 11:26:00.842693
+	AvailableDiskSpace: {'/boot': 152546, '/': 1670494204, '/dev/shm': 1957548}
+	LoadAverage: [6.4299999999999997, 8.1199999999999992, 8.4900000000000002]
+
+tcalData: 2014-04-12 11:26:00.842693
+	Depth: [0]
+	RecordsSent: [215]
+
+PyrateBufferManager: 2014-04-12 12:26:17.415772
+	CurrentAquiredBuffers: 0
+	CurrentAquiredBytes: 0
+	ReturnBufferCount: 12948816
+
+jvm: 2014-04-12 12:26:17.415772
+	MemoryStatistics: [752455552, 2115960832]
+
+moniData: 2014-04-12 12:26:17.415772
+	Depth: [0]
+	RecordsSent: [260164]
+
+rdoutData: 2014-04-12 12:26:17.415772
+	Depth: [0]
+	RecordsSent: [4004850]
+
+rdoutReq: 2014-04-12 12:26:17.415772
+	BytesReceived: [636463666]
+	RecordsReceived: [10265543]
+	TotalRecordsReceived: 10265543
+
+sender: 2014-04-12 12:26:17.415772
+	NumHitsCached: 0
+	NumHitsQueued: 111385
+	NumHitsReceived: 138491207
+	NumReadoutRequestsQueued: 0
+	NumReadoutRequestsReceived: 10265848
+	NumReadoutsSent: 4005060
+
+snData: 2014-04-12 12:26:17.415772
+	Depth: [0]
+	RecordsSent: [212145]
+
+stringHit: 2014-04-12 12:26:17.415772
+	Depth: [0]
+	RecordsSent: [2686191]
+
+stringhub: 2014-04-12 12:26:17.415772
+	EarliestLastChannelHitTime: 0
+	HitRate: 38159.8
+	HitRateLC: 723.6
+	LatestFirstChannelHitTime: 87675559039449827
+	NumberOfActiveAndTotalChannels: [60, 60]
+	NumberOfActiveChannels: 60
+	NumberOfNonZombies: 60
+	TimeOfLastHitInputToHKN1: 87711979289163786
+	TimeOfLastHitOutputFromHKN1: 87711978258509390
+	TotalLBMOverflows: 4
+
+system: 2014-04-12 12:26:17.415772
+	AvailableDiskSpace: {'/boot': 152546, '/': 1503444784, '/dev/shm': 1957548}
+	LoadAverage: [4.54, 6.8600000000000003, 7.5599999999999996]
+
+tcalData: 2014-04-12 12:26:17.415772
+	Depth: [0]
+	RecordsSent: [20788]
+
+PyrateBufferManager: 2014-04-12 13:26:34.451601
+	CurrentAquiredBuffers: 0
+	CurrentAquiredBytes: 0
+	ReturnBufferCount: 25828111
+
+jvm: 2014-04-12 13:26:34.451601
+	MemoryStatistics: [871464264, 2116354048]
+
+moniData: 2014-04-12 13:26:34.451601
+	Depth: [0]
+	RecordsSent: [510448]
+
+rdoutData: 2014-04-12 13:26:34.451601
+	Depth: [18]
+	RecordsSent: [7988723]
+
+rdoutReq: 2014-04-12 13:26:34.451601
+	BytesReceived: [1269082774]
+	RecordsReceived: [20469077]
+	TotalRecordsReceived: 20469077
+
+sender: 2014-04-12 13:26:34.451601
+	NumHitsCached: 0
+	NumHitsQueued: 106191
+	NumHitsReceived: 276041964
+	NumReadoutRequestsQueued: 0
+	NumReadoutRequestsReceived: 20469724
+	NumReadoutsSent: 7989366
+
+snData: 2014-04-12 13:26:34.451601
+	Depth: [0]
+	RecordsSent: [423237]
+
+stringHit: 2014-04-12 13:26:34.451601
+	Depth: [0]
+	RecordsSent: [5362863]
+
+stringhub: 2014-04-12 13:26:34.451601
+	EarliestLastChannelHitTime: 0
+	HitRate: 37844.0
+	HitRateLC: 733.6
+	LatestFirstChannelHitTime: 87675559039449827
+	NumberOfActiveAndTotalChannels: [60, 60]
+	NumberOfActiveChannels: 60
+	NumberOfNonZombies: 60
+	TimeOfLastHitInputToHKN1: 87748153125688679
+	TimeOfLastHitOutputFromHKN1: 87748153099009660
+	TotalLBMOverflows: 4
+
+system: 2014-04-12 13:26:34.451601
+	AvailableDiskSpace: {'/boot': 152546, '/': 1336395364, '/dev/shm': 1957548}
+	LoadAverage: [9.4100000000000001, 9.2200000000000006, 8.6300000000000008]
+
+tcalData: 2014-04-12 13:26:34.451601
+	Depth: [0]
+	RecordsSent: [41465]
+
+PyrateBufferManager: 2014-04-12 14:26:51.461234
+	CurrentAquiredBuffers: 1
+	CurrentAquiredBytes: 38
+	ReturnBufferCount: 38694853
+
+jvm: 2014-04-12 14:26:51.461234
+	MemoryStatistics: [941162952, 2115895296]
+
+moniData: 2014-04-12 14:26:51.461234
+	Depth: [0]
+	RecordsSent: [760740]
+
+rdoutData: 2014-04-12 14:26:51.461234
+	Depth: [0]
+	RecordsSent: [11973402]
+
+rdoutReq: 2014-04-12 14:26:51.461234
+	BytesReceived: [1901445202]
+	RecordsReceived: [30668471]
+	TotalRecordsReceived: 30668471
+
+sender: 2014-04-12 14:26:51.461234
+	NumHitsCached: 0
+	NumHitsQueued: 107395
+	NumHitsReceived: 413634624
+	NumReadoutRequestsQueued: 0
+	NumReadoutRequestsReceived: 30668562
+	NumReadoutsSent: 11973443
+
+snData: 2014-04-12 14:26:51.461234
+	Depth: [0]
+	RecordsSent: [634233]
+
+stringHit: 2014-04-12 14:26:51.461234
+	Depth: [0]
+	RecordsSent: [8031776]
+
+stringhub: 2014-04-12 14:26:51.461234
+	EarliestLastChannelHitTime: 0
+	HitRate: 37974.1
+	HitRateLC: 742.3
+	LatestFirstChannelHitTime: 87675559039449827
+	NumberOfActiveAndTotalChannels: [60, 60]
+	NumberOfActiveChannels: 60
+	NumberOfNonZombies: 60
+	TimeOfLastHitInputToHKN1: 87784317731242646
+	TimeOfLastHitOutputFromHKN1: 87784317707442777
+	TotalLBMOverflows: 4
+
+system: 2014-04-12 14:26:51.461234
+	AvailableDiskSpace: {'/boot': 152546, '/': 1169345944, '/dev/shm': 1957548}
+	LoadAverage: [10.859999999999999, 9.8200000000000003, 9.0700000000000003]
+
+tcalData: 2014-04-12 14:26:51.461234
+	Depth: [0]
+	RecordsSent: [62140]
+
+PyrateBufferManager: 2014-04-12 15:27:08.352569
+	CurrentAquiredBuffers: 2
+	CurrentAquiredBytes: 100
+	ReturnBufferCount: 51578898
+
+jvm: 2014-04-12 15:27:08.352569
+	MemoryStatistics: [437796328, 2116157440]
+
+moniData: 2014-04-12 15:27:08.352569
+	Depth: [0]
+	RecordsSent: [1011004]
+
+rdoutData: 2014-04-12 15:27:08.352569
+	Depth: [0]
+	RecordsSent: [15955907]
+
+rdoutReq: 2014-04-12 15:27:08.352569
+	BytesReceived: [2534043106]
+	RecordsReceived: [40871663]
+	TotalRecordsReceived: 40871663
+
+sender: 2014-04-12 15:27:08.352569
+	NumHitsCached: 0
+	NumHitsQueued: 113838
+	NumHitsReceived: 551179330
+	NumReadoutRequestsQueued: 0
+	NumReadoutRequestsReceived: 40872472
+	NumReadoutsSent: 15956511
+
+snData: 2014-04-12 15:27:08.352569
+	Depth: [0]
+	RecordsSent: [845249]
+
+stringHit: 2014-04-12 15:27:08.352569
+	Depth: [0]
+	RecordsSent: [10712201]
+
+stringhub: 2014-04-12 15:27:08.352569
+	EarliestLastChannelHitTime: 0
+	HitRate: 38273.3
+	HitRateLC: 758.8
+	LatestFirstChannelHitTime: 87675559039449827
+	NumberOfActiveAndTotalChannels: [60, 60]
+	NumberOfActiveChannels: 60
+	NumberOfNonZombies: 60
+	TimeOfLastHitInputToHKN1: 87820483476993739
+	TimeOfLastHitOutputFromHKN1: 87820483429710278
+	TotalLBMOverflows: 4
+
+system: 2014-04-12 15:27:08.352569
+	AvailableDiskSpace: {'/boot': 152546, '/': 1002296524, '/dev/shm': 1957548}
+	LoadAverage: [7.9100000000000001, 8.5899999999999999, 8.9299999999999997]
+
+tcalData: 2014-04-12 15:27:08.352569
+	Depth: [0]
+	RecordsSent: [82812]
+
+PyrateBufferManager: 2014-04-12 16:27:25.370194
+	CurrentAquiredBuffers: 72
+	CurrentAquiredBytes: 4464
+	ReturnBufferCount: 64458834
+
+jvm: 2014-04-12 16:27:25.370194
+	MemoryStatistics: [644897240, 2116288512]
+
+moniData: 2014-04-12 16:27:25.370194
+	Depth: [0]
+	RecordsSent: [1261262]
+
+rdoutData: 2014-04-12 16:27:25.370194
+	Depth: [0]
+	RecordsSent: [19939457]
+
+rdoutReq: 2014-04-12 16:27:25.370194
+	BytesReceived: [3166494566]
+	RecordsReceived: [51072493]
+	TotalRecordsReceived: 51072493
+
+sender: 2014-04-12 16:27:25.370194
+	NumHitsCached: 0
+	NumHitsQueued: 114636
+	NumHitsReceived: 688742215
+	NumReadoutRequestsQueued: 150
+	NumReadoutRequestsReceived: 51073800
+	NumReadoutsSent: 19940022
+
+snData: 2014-04-12 16:27:25.370194
+	Depth: [0]
+	RecordsSent: [1056092]
+
+stringHit: 2014-04-12 16:27:25.370194
+	Depth: [0]
+	RecordsSent: [13390656]
+
+stringhub: 2014-04-12 16:27:25.370194
+	EarliestLastChannelHitTime: 0
+	HitRate: 37940.1
+	HitRateLC: 750.1
+	LatestFirstChannelHitTime: 87675559039449827
+	NumberOfActiveAndTotalChannels: [60, 60]
+	NumberOfActiveChannels: 60
+	NumberOfNonZombies: 60
+	TimeOfLastHitInputToHKN1: 87856652852184292
+	TimeOfLastHitOutputFromHKN1: 87856652836981238
+	TotalLBMOverflows: 4
+
+system: 2014-04-12 16:27:25.370194
+	AvailableDiskSpace: {'/boot': 152546, '/': 835247104, '/dev/shm': 1957548}
+	LoadAverage: [8.25, 9.0199999999999996, 9.4900000000000002]
+
+tcalData: 2014-04-12 16:27:25.370194
+	Depth: [0]
+	RecordsSent: [103471]
+
+PyrateBufferManager: 2014-04-12 17:27:42.475804
+	CurrentAquiredBuffers: 1
+	CurrentAquiredBytes: 38
+	ReturnBufferCount: 77344766
+
+jvm: 2014-04-12 17:27:42.475804
+	MemoryStatistics: [834256760, 2115502080]
+
+moniData: 2014-04-12 17:27:42.475804
+	Depth: [0]
+	RecordsSent: [1511689]
+
+rdoutData: 2014-04-12 17:27:42.475804
+	Depth: [0]
+	RecordsSent: [23923508]
+
+rdoutReq: 2014-04-12 17:27:42.475804
+	BytesReceived: [3799375314]
+	RecordsReceived: [61280247]
+	TotalRecordsReceived: 61280247
+
+sender: 2014-04-12 17:27:42.475804
+	NumHitsCached: 0
+	NumHitsQueued: 111234
+	NumHitsReceived: 826363981
+	NumReadoutRequestsQueued: 8
+	NumReadoutRequestsReceived: 61280516
+	NumReadoutsSent: 23923797
+
+snData: 2014-04-12 17:27:42.475804
+	Depth: [0]
+	RecordsSent: [1266906]
+
+stringHit: 2014-04-12 17:27:42.475804
+	Depth: [0]
+	RecordsSent: [16067893]
+
+stringhub: 2014-04-12 17:27:42.475804
+	EarliestLastChannelHitTime: 0
+	HitRate: 37986.3
+	HitRateLC: 705.2
+	LatestFirstChannelHitTime: 87675559039449827
+	NumberOfActiveAndTotalChannels: [60, 60]
+	NumberOfActiveChannels: 60
+	NumberOfNonZombies: 60
+	TimeOfLastHitInputToHKN1: 87892836761440308
+	TimeOfLastHitOutputFromHKN1: 87892836286415398
+	TotalLBMOverflows: 4
+
+system: 2014-04-12 17:27:42.475804
+	AvailableDiskSpace: {'/boot': 152546, '/': 668197684, '/dev/shm': 1957548}
+	LoadAverage: [6.5999999999999996, 9.0600000000000005, 9.4399999999999995]
+
+tcalData: 2014-04-12 17:27:42.475804
+	Depth: [0]
+	RecordsSent: [124120]
+
+PyrateBufferManager: 2014-04-12 18:27:59.522524
+	CurrentAquiredBuffers: 0
+	CurrentAquiredBytes: 0
+	ReturnBufferCount: 90217262
+
+jvm: 2014-04-12 18:27:59.522524
+	MemoryStatistics: [335521560, 2112356352]
+
+moniData: 2014-04-12 18:27:59.522524
+	Depth: [0]
+	RecordsSent: [1761901]
+
+rdoutData: 2014-04-12 18:27:59.522524
+	Depth: [0]
+	RecordsSent: [27901382]
+
+rdoutReq: 2014-04-12 18:27:59.522524
+	BytesReceived: [4431509520]
+	RecordsReceived: [71475960]
+	TotalRecordsReceived: 71475960
+
+sender: 2014-04-12 18:27:59.522524
+	NumHitsCached: 0
+	NumHitsQueued: 96254
+	NumHitsReceived: 963808440
+	NumReadoutRequestsQueued: 0
+	NumReadoutRequestsReceived: 71477176
+	NumReadoutsSent: 27902120
+
+snData: 2014-04-12 18:27:59.522524
+	Depth: [0]
+	RecordsSent: [1477426]
+
+stringHit: 2014-04-12 18:27:59.522524
+	Depth: [0]
+	RecordsSent: [18745192]
+
+stringhub: 2014-04-12 18:27:59.522524
+	EarliestLastChannelHitTime: 0
+	HitRate: 37946.4
+	HitRateLC: 757.6
+	LatestFirstChannelHitTime: 87675559039449827
+	NumberOfActiveAndTotalChannels: [60, 60]
+	NumberOfActiveChannels: 60
+	NumberOfNonZombies: 60
+	TimeOfLastHitInputToHKN1: 87928994450507545
+	TimeOfLastHitOutputFromHKN1: 87928994384809599
+	TotalLBMOverflows: 4
+
+system: 2014-04-12 18:27:59.522524
+	AvailableDiskSpace: {'/boot': 152546, '/': 501148264, '/dev/shm': 1957548}
+	LoadAverage: [9.0199999999999996, 10.69, 10.06]
+
+tcalData: 2014-04-12 18:27:59.522524
+	Depth: [0]
+	RecordsSent: [144740]

@@ -3,10 +3,12 @@ CoffeeScript implementation of read_moni_file
 
 ## Development
 To hack on this project, you'll need to install some dependencies.
+
 * Install [Node.js](http://nodejs.org/download/)
 * Install [CoffeeScript](http://coffeescript.org/)
 
 To get a development environment up and running:
+
     git clone https://github.com/blinkdog/read-moni-file
     npm install
 
