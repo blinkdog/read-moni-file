@@ -5,8 +5,10 @@
 fs = require 'fs'
 should = require 'should'
 
+TEST_DATA_FILENAME = './testData/stringHub-80.moni'
+
 describe 'readMoniFile', ->
-  SH80 = fs.readFileSync './testData/stringHub-80.moni', 'utf8'
+  SH80 = fs.readFileSync TEST_DATA_FILENAME, 'utf8'
       
   describe 'CATTIME_PAT', ->
     {CATTIME_PAT} = require '../lib/readMoniFile'
@@ -52,6 +54,16 @@ describe 'readMoniFile', ->
       "	CurrentAquiredBuffers: 2".should.match DATA_PAT
       result = DATA_PAT.exec "	CurrentAquiredBuffers: 2"
       result.should.be.ok
+
+  describe 'MonitorFile', ->
+    {MonitorFile} = require '../lib/readMoniFile'
+    
+    it 'should export a MonitorFile class', ->
+      MonitorFile.should.be.ok
+      
+    it 'should be able to parse some test data', ->
+      mf = new MonitorFile TEST_DATA_FILENAME
+      mf._data.should.be.ok
 
 #----------------------------------------------------------------------
 # end of readMoniFileTest.coffee

@@ -131,7 +131,6 @@ class MonitorFile
     times = data.keys()
     times.sort()
     ###
-    console.log data
     times = Object.keys data
     times.sort()
     ###
@@ -166,7 +165,7 @@ class MonitorFile
         print >>out, "%s: %s" % (k, t)
         ###
         # BUG: Sadly, millisecond precision is not going to cut it... :-(
-        #out.write "#{k}: #{t.toISOString().replace(/T/g, ' ').replace(/Z/,'')}\n"
+        #out.write "#{k}: #{t.toISOString().replace(/T/g,' ').replace(/Z/,'')}\n"
         out.write "#{k}: #{t}\n"
         ###
         names = data[t][k].keys()
